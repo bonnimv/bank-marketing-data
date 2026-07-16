@@ -75,10 +75,8 @@ Random Forest achieved the best overall performance, particularly for recall, F1
 - Scikit-learn
 - Jupyter Notebook
 
-## Authors
+## Author
 
 Academic group project completed by:
 
 - Marianna Manenkova
-- Inna Zeinab Youssouf
-- Chaima Ezzar
